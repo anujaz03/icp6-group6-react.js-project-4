@@ -1,3 +1,46 @@
 .h1{
     background-color: aliceblue;
 }
+.Shubham{
+    background-color: yellow;
+}
+body{
+    background-image: url(../Home/food-bg-hd.jpg);
+}
+.container{
+    width: 600px;
+    height: 500px;
+   
+    
+    margin-top: 150px;
+    margin-left: 50px;
+}
+.sub-container{
+    font-size: 70px;
+    padding: 0px 50px;
+}
+.para{
+    font-size: 20px;
+    padding:10px 50px ;
+    font-style: cursue;
+}
+.btn{
+    font-size: 25px;
+    width: 200px;
+    padding:10px 30px ;
+    background-color: #fea116;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-top: 10px;
+    color: white;
+    
+    
+   
+
+    
+ 
+
+}
+
