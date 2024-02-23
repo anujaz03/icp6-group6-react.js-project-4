@@ -1,3 +1,106 @@
 .h1{
     background-color: aliceblue;
 }
+body{
+    background-color: #f7f9fd;
+    margin: 0px;
+    padding: 0px;
+}
+.A-hading{
+    text-align: center;
+    font-family: cursive;
+    margin-top: 30px;
+    font-size: 50px;
+    color: #fea116;
+}
+.A-hading-2{
+    text-align: center;
+    font-family: cursive;
+    margin-top: 30px;
+    font-size: 50px;
+    color: black;
+}
+.A-card-container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.A-card{
+    height: 750px;
+    width: 620px;
+
+   margin-top: 100px;
+   margin: 50px;
+   
+}
+.A-img-1{
+    height: 300px;
+    margin: 20px;
+}
+
+
+.A-img-2{
+    height: 230px;
+    margin: 20px;
+}
+.A-titile{
+    text-align:center ;
+    font-family: cursive;
+    font-size: 25px;
+    padding: 20px;
+}
+.A-card-1{
+    display: flex;
+    justify-content: space-between;
+}
+.A-chefe-card{
+    height: 500px;
+    width: 400px;
+    background-color:white;
+    margin: 30px;
+    padding: 15px;
+}
+.A-img-3{
+    border-radius: 50%;
+    height: 350px;
+    display: block;
+    margin: 0px auto;
+}
+.A-hading-3{
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    margin: 20px;
+}
+.A-img-4{
+    height: 30px;
+    cursor: pointer;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.A-img-4:hover{
+    height: 35px;
+   
+}
+.A-itam{
+    
+    margin-left:80px ;
+}
+.btn{
+    font-size: 15px;
+    width: 200px;
+    padding:10px 30px ;
+    background-color: #fea116;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-top: 10px;
+    color: white;
+    
+    
+}
+.btn:hover{
+    background-color: #fea116;
+}

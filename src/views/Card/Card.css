@@ -1,0 +1,33 @@
+.h1{
+    background-color: aqua;
+}
+.card{
+    background-color:white;
+    height: 450px;
+    width: 600px;
+    margin: 60px;
+   
+
+}
+.C-hading{
+    text-align: center;
+    font-family: cursive;
+    padding: 10px;
+     color: #fea116; 
+}
+.C-hading-1{
+    text-align: center;
+    font-family: cursive;
+    padding: 20px;
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 480px){
+    .C-hading-1{
+        text-align: center;
+        font-family: cursive;
+        padding: 20px;
+        font-size: 0px;
+    }
+}
+
