@@ -9,6 +9,7 @@ import Food from './views/Food/Food';
 import Feeback from './views/Feeback/Feeback';
 import Meal from './views/Meal/Meal';
 import Login from './views/Login/Login';
+import Navbar from './Components/Navbar/Navbar';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
