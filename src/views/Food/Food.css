@@ -1,3 +1,68 @@
 .h1{
-    background-color: aliceblue;
+    background-color: #f7f9fd;
 }
+
+    .A-img-3{
+        border-radius: 50%;
+        height: 300px;
+        width: 300px;
+        display: block;
+        margin: 0px auto;
+    }
+    .A-hading{
+        text-align: center;
+        font-family: cursive;
+        margin-top: 30px;
+        font-size: 50px;
+        color: #fea116;
+       
+    }
+    .A-hading-2{
+        text-align: center;
+        font-family: cursive;
+        margin-top: 30px;
+        font-size: 50px;
+        color: #fea116;
+    }
+    .A-hading-4{
+        text-align: center;
+        font-family: cursive;
+        margin-top: 30px;
+        font-size: 50px;
+        color: black;
+       
+    }
+
+    .A-hading-5{
+        text-align: center;
+        font-family: cursive;
+        margin-top: 30px;
+        font-size: 50px;
+        color: black;
+    }
+    .A-card-container{
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+    .A-break-card{
+        height: 535px;
+        width: 400px;
+        background-color:white;
+        margin: 30px;
+        padding: 15px;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+    .A-hading-3{
+        text-align: center;
+        font-size: 30px;
+        font-family: cursive;
+        margin: 20px;
+        color: #fea116;
+    }
+    .description{
+        font-size: 25px;
+        font-family: cursive;
+        color: black;
+    }
