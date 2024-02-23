@@ -98,7 +98,7 @@ A cafeteria, sometimes called a canteen outside the U.S. and Canada, is a type o
  
        <div className='A-chefe-card'>
        <img className='A-img-3' src={ImgAbout6}  />
-       <h1 className='A-hading-3' >Nikhil Gadakh</h1>
+       <h1 className='A-hading-3' >Om Dale</h1>
       <div className='A-itam'>
       <img className='A-img-4' src={ImgAbout8}  />
        <img className='A-img-4' src={ImgAbout9}  />
@@ -108,7 +108,7 @@ A cafeteria, sometimes called a canteen outside the U.S. and Canada, is a type o
 
      <div className='A-chefe-card'>
      <img className='A-img-3' src={ImgAbout7}  />
-       <h1 className='A-hading-3' >Nikhil Gadakh</h1>
+       <h1 className='A-hading-3' >Rutik Patil</h1>
       <div className='A-itam'>
       <img className='A-img-4' src={ImgAbout8}  />
        <img className='A-img-4' src={ImgAbout9}  />
