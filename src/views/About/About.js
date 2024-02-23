@@ -95,6 +95,7 @@ A cafeteria, sometimes called a canteen outside the U.S. and Canada, is a type o
       </div>
 
        </div>
+       
  
        <div className='A-chefe-card'>
        <img className='A-img-3' src={ImgAbout6}  />
