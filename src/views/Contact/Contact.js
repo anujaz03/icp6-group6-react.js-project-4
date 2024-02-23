@@ -19,7 +19,9 @@ function Contact() {
             <textarea id="message" name="message" rows="4" required></textarea>
           </div>
           <input type="submit" value="Submit" />
-        </form>
+
+          <input type="submit" value="Submit" />      
+            </form>
       </div>
       </div>
    
