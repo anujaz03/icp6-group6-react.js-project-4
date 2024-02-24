@@ -1,7 +1,6 @@
 import React from 'react'
 import './Contact.css'
 import Navbar from '../../Components/Navbar/Navbar'
-import Footer from '../../Components/Footer'
 
 function Contact() {
   return (
@@ -30,7 +29,6 @@ function Contact() {
             </form>
       </div>
       </div>
-      <Footer/>
       </div>
   );
 }
