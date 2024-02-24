@@ -10,6 +10,7 @@ function Home() {
     <div>
        <Navbar />
 
+
     <div className='Container'> 
     <p className='sub-container'>Good food choices are <br/>good investment.</p>
     
