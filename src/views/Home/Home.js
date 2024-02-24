@@ -14,7 +14,7 @@ function Home() {
     
     <p className='para'>Food is the fuel that keeps us running throughout the day, and it also supports the body’s metabolic process and ensures we remain healthy. Children need to understand the importance of food to build healthy eating habits in the long term.</p>
 
-    <Link to='/about'className='btn'>Explore more</Link>
+    <Link to=''className='btn'>Explore more</Link>
 
 
     </div>
