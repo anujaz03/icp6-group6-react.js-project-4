@@ -4,12 +4,18 @@ import Navbar from '../../Components/Navbar/Navbar'
 
 function Contact() {
   return (
+<<<<<<< HEAD
 
     <div>
       <Navbar/>
       <h1 className='A-hadingg'>-Contact <span className='A-hadingg-2'>Us</span>-</h1>
      
 
+=======
+<<<<<<< HEAD
+   <div></div>
+=======
+>>>>>>> 3ad4309dfb7e7afdf62c2598ddc757c9beb80efd
     <div className="App">
       <div className="container">
 
@@ -33,6 +39,7 @@ function Contact() {
       </div>
       </div>
    
+>>>>>>> cd28bb957c5d3e735cc310a396839b83a5f60a26
   );
 }
 

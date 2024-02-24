@@ -10,6 +10,7 @@ import Feeback from './views/Feeback/Feeback';
 import Meal from './views/Meal/Meal';
 import Login from './views/Login/Login';
 import Navbar from './Components/Navbar/Navbar';
+import Footer from './Components/Footer/Footer'
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -48,6 +49,10 @@ const router = createBrowserRouter([
         element: <Login/>
      },
 
+     {
+        path: "/Footer",
+        element: <Footer/>
+     },
     {
         path: "*",
         element: "NOT"

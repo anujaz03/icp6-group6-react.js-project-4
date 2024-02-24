@@ -1,3 +1,119 @@
 .h1{
     background-color: aliceblue;
 }
+a {
+    color: white; 
+    text-decoration: none; 
+}
+
+
+a:hover {
+    color: tomato; 
+}
+.footer {
+    background-color:black;
+    width: 1520px;
+    padding: 5px;
+    margin-top: 10px;
+   margin-bottom: 15px;
+    border-radius: 10px;
+  
+}
+
+.main-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+
+
+
+.footer-text {
+font-size: 24px;
+}
+
+
+.footer1 {
+width: 150px;
+}
+
+.social {
+display: none;
+}
+
+.footer-text {
+font-size: 24px;
+}
+
+
+
+
+
+.social {
+display: none;
+}
+
+
+.footer-text {
+    font-size: 30px;
+    font-family: cursive;
+    color: #fea116;
+    
+}
+.footer-detail{
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: cursive;
+}
+.social {
+    padding: 10px;
+}
+.text{
+    color: white;
+    cursor: pointer;
+    font-family: cursive;
+    font-size: 20px;
+    
+    
+}
+.subtitle{
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: cursive;
+    
+}
+
+.logos{
+    color: white;
+    cursor: pointer;
+    
+    display: inline-block;
+    margin-left: 10px;
+    padding: 20px;
+    
+    
+    transition: transform 0.2s; 
+}
+
+
+
+.right-box{
+    margin-left: 20px;
+}
+.center-box{
+    margin-left: 20px;
+}
+.mail-img{
+    margin-right: 10px;
+    font-size: 20px;
+    font-family: cursive;
+    
+}
