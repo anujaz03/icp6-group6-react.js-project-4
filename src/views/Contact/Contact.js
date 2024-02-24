@@ -1,9 +1,11 @@
 import React from 'react'
 import './Contact.css'
 import Navbar from '../../Components/Navbar/Navbar'
+import Footer from '../../Components/Footer/Footer';
 
 function Contact() {
   return (
+
 
     <div>
       <Navbar/>
@@ -29,8 +31,9 @@ function Contact() {
             </form>
       </div>
       </div>
+      <Footer/>
       </div>
   );
 }
 
-export default Contact;
+export default Contact
