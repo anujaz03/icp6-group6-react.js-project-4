@@ -12,6 +12,7 @@ import ImgAbout8 from './instagram.png'
 import ImgAbout9 from './facebook (1).png'
 import ImgAbout10 from './whatsapp (1).png'
 import Navbar from '../../Components/Navbar/Navbar'
+import Footer from '../../Components/Footer/Footer'
 
 
 
@@ -95,10 +96,11 @@ A cafeteria, sometimes called a canteen outside the U.S. and Canada, is a type o
       </div>
 
        </div>
+       
  
        <div className='A-chefe-card'>
        <img className='A-img-3' src={ImgAbout6}  />
-       <h1 className='A-hading-3' >Nikhil Gadakh</h1>
+       <h1 className='A-hading-3' >Om Dale</h1>
       <div className='A-itam'>
       <img className='A-img-4' src={ImgAbout8}  />
        <img className='A-img-4' src={ImgAbout9}  />
@@ -108,7 +110,7 @@ A cafeteria, sometimes called a canteen outside the U.S. and Canada, is a type o
 
      <div className='A-chefe-card'>
      <img className='A-img-3' src={ImgAbout7}  />
-       <h1 className='A-hading-3' >Nikhil Gadakh</h1>
+       <h1 className='A-hading-3' >Rutik Patil</h1>
       <div className='A-itam'>
       <img className='A-img-4' src={ImgAbout8}  />
        <img className='A-img-4' src={ImgAbout9}  />
@@ -118,7 +120,7 @@ A cafeteria, sometimes called a canteen outside the U.S. and Canada, is a type o
 
         
       </div>
-
+      <Footer/>
     </div>
     
   )

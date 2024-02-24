@@ -18,7 +18,7 @@ body{
     font-family: cursive;
     margin-top: 30px;
     font-size: 50px;
-    color: black;
+  color: #000;
 }
 .A-card-container{
     display: flex;
@@ -48,6 +48,8 @@ body{
     font-family: cursive;
     font-size: 25px;
     padding: 20px;
+    color: #000000;
+    font-weight:bold ;
 }
 .A-card-1{
     display: flex;
@@ -97,6 +99,8 @@ body{
     margin-left: 100px;
     margin-top: 10px;
     color: white;
+    cursor: pointer;
+    border: none;
     
     
 }
