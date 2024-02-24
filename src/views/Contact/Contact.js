@@ -2,9 +2,6 @@ import React from 'react'
 import './Contact.css'
 function Contact() {
   return (
-<<<<<<< HEAD
-   <div></div>
-=======
     <div className="App">
       <div className="container">
         <h2>Contact Us</h2>
@@ -28,7 +25,7 @@ function Contact() {
       </div>
       </div>
    
->>>>>>> cd28bb957c5d3e735cc310a396839b83a5f60a26
+
   );
 }
 
