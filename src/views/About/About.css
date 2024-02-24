@@ -18,7 +18,7 @@ body{
     font-family: cursive;
     margin-top: 30px;
     font-size: 50px;
-    color: rgb(0, 0, 0);
+  color: #000;
 }
 .A-card-container{
     display: flex;
