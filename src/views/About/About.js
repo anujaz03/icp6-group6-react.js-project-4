@@ -15,12 +15,11 @@ import Navbar from '../../Components/Navbar/Navbar'
 import Footer from '../../Components/Footer/Footer'
 
 
-
 const DATA= [
   {
       title: "Home Delivery 🚚",
       description:" Home delivery method includes any type of delivery at the consumer's residential or commercial address. As a general rule, customers need to answer the door and receive the goods personally. It implies maximum convenience for buyers in theory — and customer expectations are only growing — but not always in practice"
-      
+
 
   },
   { 
