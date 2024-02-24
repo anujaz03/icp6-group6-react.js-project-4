@@ -11,6 +11,7 @@ import Meal from './views/Meal/Meal';
 import Login from './views/Login/Login';
 import Navbar from './Components/Navbar/Navbar';
 import Footer from './Components/Footer/Footer'
+import Register from './views/Restration/Register';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -53,6 +54,11 @@ const router = createBrowserRouter([
         path: "/Footer",
         element: <Footer/>
      },
+     {
+        path: "/register",
+        element: <Register/>
+     },
+     
     {
         path: "*",
         element: "NOT"

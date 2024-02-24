@@ -1,7 +1,9 @@
-.h1{
-    background-color: aliceblue;
+h1{
+    text-align: center;
+    background-color: #fea116;
+    padding: 10px;
 }
-.form-container {
+.Register-form-container {
     height:450px;
     width:400px;
     padding: 10px;
@@ -11,29 +13,20 @@
     border-radius: 5px;
     background-color: #f7f9fd;
   }
-  .input-box {
+  .input-box{
     font-size: 15px;
-    width: 400px;
-    padding: 12px;
-    margin: 8px 0;
-    box-sizing: border-box;
-    border: 1px solid #ccc;
-    border-radius: 4px;
+    width: 200px;
+    padding: 10px;
+    margin:  7px;
+    margin-top: 10px;
   }
   #input-box-two{
     width: 200px;
   }
-  
- 
-  .input-box:focus {
-    outline: none;
-    border-color: #fea116;
-  }
-  
   .login-btn{
     width:100px;
     padding: 10px;
-    margin: 10px;
+    margin: 30px 5px;
     text-align: center;
     border-radius: 3px;
     cursor: pointer;
