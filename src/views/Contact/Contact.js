@@ -6,6 +6,7 @@ import Footer from '../../Components/Footer'
 function Contact() {
   return (
 
+
     <div>
       <Navbar/>
       <h1 className='A-hadingg'>-Contact <span className='A-hadingg-2'>Us</span>-</h1>
@@ -30,9 +31,8 @@ function Contact() {
             </form>
       </div>
       </div>
-      <Footer/>
-      </div>
+
   );
 }
 
-export default Contact;
+export default Contact

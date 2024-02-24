@@ -1,18 +1,10 @@
-.h1{
-    background-color: aliceblue;
-}
-.Shubham{
-    background-color: yellow;
-}
 body{
-    background-image: url(../Home/food-bg-hd.jpg);
+    background-image: url(food-bg-hd.jpg);
 }
-.container{
+.Container{
     width: 600px;
     height: 500px;
-   
-    
-    margin-top: 150px;
+    margin-top: 100px;
     margin-left: 50px;
 }
 .sub-container{
@@ -35,7 +27,7 @@ body{
     border-radius: 5px;
     margin-left: 100px;
     margin-top: 10px;
-    color: white;
+    color: black;
     
     
    
